@@ -8,5 +8,8 @@
     "prestart": "tsc"
   },
   "author": "wooseong-ham",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tsc-watch": "^4.2.9"
+  }
 }
